@@ -236,4 +236,4 @@ instead of running an old one.
 
 ---
 
-*last-epoch-overlay-pack · Updated 2026-11-15 · Shared under the MIT License*
+*last-epoch-overlay-pack · Updated 2026-11-16 · Shared under the MIT License*
